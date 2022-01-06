@@ -1,0 +1,28 @@
+{
+  "files": {
+    "GameBoard.py": [
+      {
+        "id": "76637b42-9daf-4c3a-9ca1-480de946a3c2",
+        "line": 10,
+        "version": 1790,
+        "index": 236
+      }
+    ],
+    "main.py": [
+      {
+        "id": "46498cc4-8cb8-4450-8c1c-58702ca82ecc",
+        "line": 1,
+        "version": 8982,
+        "index": 0
+      }
+    ],
+    "test_sticks.py": [
+      {
+        "id": "6e336730-4fdb-4d38-a64d-cbc3549aa9b4",
+        "line": 6,
+        "version": 96,
+        "index": 112
+      }
+    ]
+  }
+}
